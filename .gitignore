@@ -1,0 +1,6 @@
+# Documentation-only showcase: deny accidental private uploads.
+*
+!.gitignore
+!README.md
+!docs/
+!docs/*.md
